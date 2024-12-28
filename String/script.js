@@ -39,8 +39,8 @@ const article2 = `Hello world!
 
 This is next 2 lines` // ใช้ Backtick สามาารถแสดงเว้นบรรทัดได้เลบ
 
-// alert(article1)
-// alert(article2)
+alert(article1)
+alert(article2)
 
 
 // String: ข้อมูลประเภทข้อความ (Escape Character)
